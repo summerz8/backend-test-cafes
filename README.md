@@ -14,6 +14,8 @@ If your machine does not have flask-mysql installed. Please install with:
 
 `pip install flask-mysqldb`
 
+`mysqlclient` is required for installing `flask-mysql`. If your machine does not have `mysqlclient` installed. Please check out the instructions: https://pypi.org/project/mysqlclient/ 
+
 If `pip` is not installed, please follow instructions to install `pip` here: https://pip.pypa.io/en/stable/installation/ 
 
 ### Seed data:
